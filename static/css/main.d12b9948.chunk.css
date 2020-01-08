@@ -1,0 +1,2 @@
+body,html{margin:0;height:100%;width:100%}.calculator-container{display:flex;flex-direction:column;border:1px solid grey;width:250px;padding:10}.buttons-container{display:grid;grid-template-rows:1fr 1fr 1fr 1fr;grid-template-columns:1fr 1fr 1fr 1fr}#clear{grid-area:1/span 4}.App{display:flex;flex-direction:column;align-items:center;justify-content:center;height:100vh}
+/*# sourceMappingURL=main.d12b9948.chunk.css.map */
